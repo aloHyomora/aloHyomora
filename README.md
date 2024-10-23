@@ -1,8 +1,5 @@
 # Hi there 👋 :D
 ## _Welcome to my World_
-![image](https://cdn-icons-png.flaticon.com/128/25/25231.png)
-
-
 
 ✨XR profoundly transform our lives by changing the way we interact with the physical world.✨
 
