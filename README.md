@@ -1,7 +1,7 @@
 # Hi there 👋 :D
 ## _Welcome to my World_
 
-✨XR profoundly transform our lives by changing the way we interact with the physical world.✨
+✨XR and AI profoundly transform our lives by changing the way we interact with the physical world.✨
 
 
 ![Build Status](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=It's%20me%20aloHyomora!&section=header&reversal=false&fontColor=383838&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&desc=Change%20the%20way%20we%20interact%20with%20the%20physical%20world.&descAlignY=74)
@@ -19,11 +19,12 @@
 <img src="https://github.com/aloHyomora/aloHyomora/blob/output/github-snake-dark.svg" width="100%">
 
 ## Project
-- VR Rhythm Action Game  "CrushBear : Don't Decorate Me!"
-- MR Solution based HoloLens2(MR Headset)
-- SNUH Medisc Lab
-- STECH HCI Lab
-- 2D Mobile game "Fermi-tale"
+- Ctrl + Alt + Bind : binding AI Models in 3D Game Engine
+- VR Game: Jellysis(Casual Multi), CrushBear : Don't Decorate Me!(Rhythm Action)
+- MR Solution based HoloLens2(MR Headset) : XRecords, PunTranslator, Walklens Toolkit, ConferenceAR
+- SNUH Medisc Lab : 2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro), Inspirometer Support Program(Based YOLO, Window), Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)
+- STECH HCI Lab : stability UX Experiment in driving situation(Hyundai Mobis)
+- 2D Mobile game : Fermi-tale(Android)
 
 ## License
 
