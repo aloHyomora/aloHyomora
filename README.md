@@ -21,7 +21,7 @@
 ## Project
 - Ctrl + Alt + Bind : binding AI Models in 3D Game Engine
 - VR Game: Jellysis(Casual Multi), CrushBear : Don't Decorate Me!(Rhythm Action)
-- MR Solution based HoloLens2(MR Headset) : XRecords, PunTranslator, Walklens Toolkit, ConferenceAR
+- MR Solution based HoloLens2 : XRecords, PunTranslator, Walklens Toolkit, ConferenceAR
 - SNUH Medisc Lab : 2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro), Inspirometer Support Program(Based YOLO, Window), Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)
 - STECH HCI Lab : stability UX Experiment in driving situation(Hyundai Mobis)
 - 2D Mobile game : Fermi-tale(Android)
