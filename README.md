@@ -1,7 +1,7 @@
 # Hi there 👋 :D
 ## _Welcome to my World_
 
-✨XR and AI profoundly transform our lives by changing the way we interact with the physical world.✨
+✨A.I. profoundly transform our lives by changing the way we interact with the physical world.✨
 
 
 ![Build Status](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=It's%20me%20aloHyomora!&section=header&reversal=false&fontColor=383838&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&desc=Change%20the%20way%20we%20interact%20with%20the%20physical%20world.&descAlignY=74)
