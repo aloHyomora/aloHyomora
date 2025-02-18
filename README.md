@@ -1,7 +1,8 @@
 # Hi there 👋 :D
 ## _Welcome to my World_
 
-### ✨I am interested in creating innovative solutions that enhance how we interact with the physical world.✨
+### ✨Hey there! I'm Alohyomora, a developer passionate about creating innovative solutions that revolutionize how we interact with the physical world. 
+### I’m always pushing myself to grow and take on new challenges, striving to be a 'maestro of problem-solving' with the goal of developing technology that truly makes a difference in the world.✨
 
 
 ![Build Status](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=It's%20me%20aloHyomora!&section=header&reversal=false&fontColor=383838&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&desc=Change%20the%20way%20we%20interact%20with%20the%20physical%20world.&descAlignY=74)
