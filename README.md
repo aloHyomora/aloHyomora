@@ -24,7 +24,7 @@
 - VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
 - MR Solution based HoloLens2 : [XRecords](https://github.com/WalkLens/WalkLens_Lab), [PunTranslator](https://github.com/WalkLens/WalkLens_Lab), [Walklens Toolkit](https://github.com/WalkLens/WalkLens_Toolkit), [TeleCareAR](https://github.com/WalkLens/TelecareAR), [ConferenceAR](https://github.com/WalkLens/ConferenceAR)
 - SNUH Medisc Lab : [2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro)](https://github.com/aloHyomora/MediscLabSurgicalVision), [Inspirometer Support Program(Based YOLO, Window)](https://github.com/aloHyomora/Inspirometer-Tablet), [Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)](https://github.com/aloHyomora/Pre-Rehabilitation)
-- STECH HCI Lab : [stability UX Experiment in driving situation(Hyundai Mobis)](https://github.com/HCILabSeoultech/Automatic-Car-Simulator-for-UX-Verification), [NrealLightWithYOLO](https://github.com/aloHyomora/NrealLightWithYOLO)
+- STECH HCI Lab : [stability UX Experiment in driving situation(Hyundai Mobis)](https://github.com/HCILabSeoultech/Automatic-Car-Simulator-for-UX-Verification), [Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification](https://github.com/HCILabSeoultech/Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification), [NrealLightWithYOLO](https://github.com/aloHyomora/NrealLightWithYOLO)
 - 2D Mobile game : [Fermi-tale(Android)](https://github.com/Fouractal/Fermi-tale)
 
 ## License
