@@ -1,7 +1,7 @@
 # Hi there 👋 :D
 ## _Welcome to my World_
 
-### ✨Hey there! I'm Alohyomora, a developer passionate about creating innovative solutions that revolutionize how we interact with the physical world. 
+### ✨Hi there! I'm Alohyomora, a developer passionate about creating innovative solutions that revolutionize how we interact with the physical world. 
 ### I’m always pushing myself to grow and take on new challenges, striving to be a 'maestro of problem-solving' with the goal of developing technology that truly makes a difference in the world.✨
 
 
@@ -21,11 +21,11 @@
 
 ## Project
 - Embedded: [OTA-Prototype-Development-All-About-Wireless-Updates](https://github.com/aloHyomora/OTA-Prototype-Development-All-About-Wireless-Updates-)
-- [Ctrl + Alt + Bind : binding AI Models in 3D Game Engine](https://www.notion.so/xreal-workspace/Ctrl-Alt-Bind-c16e6ad0c9034e119757903f195470cf)
-- VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
-- MR Solution based HoloLens2 : [XRecords](https://github.com/WalkLens/WalkLens_Lab), [PunTranslator](https://github.com/WalkLens/WalkLens_Lab), [Walklens Toolkit](https://github.com/WalkLens/WalkLens_Toolkit), [TeleCareAR](https://github.com/WalkLens/TelecareAR), [ConferenceAR](https://github.com/WalkLens/ConferenceAR)
 - SNUH Medisc Lab : [2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro)](https://github.com/aloHyomora/MediscLabSurgicalVision), [Inspirometer Support Program(Based YOLO, Window)](https://github.com/aloHyomora/Inspirometer-Tablet), [Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)](https://github.com/aloHyomora/Pre-Rehabilitation)
 - STECH HCI Lab : [stability UX Experiment in driving situation(Hyundai Mobis)](https://github.com/HCILabSeoultech/Automatic-Car-Simulator-for-UX-Verification), [Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification](https://github.com/HCILabSeoultech/Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification), [NrealLightWithYOLO](https://github.com/aloHyomora/NrealLightWithYOLO)
+- VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
+- MR Solution based HoloLens2 : [XRecords](https://github.com/WalkLens/WalkLens_Lab), [PunTranslator](https://github.com/WalkLens/WalkLens_Lab), [Walklens Toolkit](https://github.com/WalkLens/WalkLens_Toolkit), [TeleCareAR](https://github.com/WalkLens/TelecareAR), [ConferenceAR](https://github.com/WalkLens/ConferenceAR)
+- [Ctrl + Alt + Bind : binding AI Models in 3D Game Engine](https://www.notion.so/xreal-workspace/Ctrl-Alt-Bind-c16e6ad0c9034e119757903f195470cf)
 - 2D Mobile game : [Fermi-tale(Android)](https://github.com/Fouractal/Fermi-tale)
 
 ## License
