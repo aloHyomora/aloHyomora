@@ -20,6 +20,7 @@
 <img src="https://github.com/aloHyomora/aloHyomora/blob/output/github-snake-dark.svg" width="100%">
 
 ## Project
+- Embedded: [OTA-Prototype-Development-All-About-Wireless-Updates](https://github.com/aloHyomora/OTA-Prototype-Development-All-About-Wireless-Updates-)
 - [Ctrl + Alt + Bind : binding AI Models in 3D Game Engine](https://www.notion.so/xreal-workspace/Ctrl-Alt-Bind-c16e6ad0c9034e119757903f195470cf)
 - VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
 - MR Solution based HoloLens2 : [XRecords](https://github.com/WalkLens/WalkLens_Lab), [PunTranslator](https://github.com/WalkLens/WalkLens_Lab), [Walklens Toolkit](https://github.com/WalkLens/WalkLens_Toolkit), [TeleCareAR](https://github.com/WalkLens/TelecareAR), [ConferenceAR](https://github.com/WalkLens/ConferenceAR)
@@ -29,6 +30,5 @@
 
 ## License
 
-MIT
-
-**Ha Ha**
+MIT License. Feel free to modify and distribute it.
+Pull requests for improvements are always welcome! 🚀
