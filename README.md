@@ -20,7 +20,8 @@
 <img src="https://github.com/aloHyomora/aloHyomora/blob/output/github-snake-dark.svg" width="100%">
 
 ## Project
-- Embedded: [OTA-Prototype-Development-All-About-Wireless-Updates](https://github.com/aloHyomora/OTA-Prototype-Development-All-About-Wireless-Updates-)
+- Embedded: [OTA-Prototype-Development-All-About-Wireless-Updates](https://github.com/aloHyomora/OTA-Prototype-Development-All-About-Wireless-Updates-),[Embedded-CI-Lab Embedded firmware development and CI/CD automation for testing on ARM Cortex using QEMU](https://github.com/aloHyomora/Embedded-CI-Lab)
+- 
 - SNUH Medisc Lab : [2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro)](https://github.com/aloHyomora/MediscLabSurgicalVision), [Inspirometer Support Program(Based YOLO, Window)](https://github.com/aloHyomora/Inspirometer-Tablet), [Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)](https://github.com/aloHyomora/Pre-Rehabilitation)
 - STECH HCI Lab : [stability UX Experiment in driving situation(Hyundai Mobis)](https://github.com/HCILabSeoultech/Automatic-Car-Simulator-for-UX-Verification), [Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification](https://github.com/HCILabSeoultech/Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification), [NrealLightWithYOLO](https://github.com/aloHyomora/NrealLightWithYOLO)
 - VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
