@@ -21,7 +21,7 @@
 
 ## Project
 - Embedded Project: [OTA-Development-Wireless-Updates](https://github.com/aloHyomora/OTA-Prototype-Development-All-About-Wireless-Updates-), [Smart sign language
- Control](https://github.com/aloHyomora/IOT_Project/tree/main/MbedProject)[Dachshund Interface: Interactive Control & Visualization Hub](https://github.com/aloHyomora/Dachshund-Interface), [Dachshund-Vision: Visual Sensing Module](https://github.com/aloHyomora/Dachshund-Vision)
+ Control](https://github.com/aloHyomora/IOT_Project/tree/main/MbedProject), [Dachshund Interface: Interactive Control & Visualization Hub](https://github.com/aloHyomora/Dachshund-Interface), [Dachshund-Vision: Visual Sensing Module](https://github.com/aloHyomora/Dachshund-Vision)
 - SEOULTECH HCI Lab : [stability UX Experiment in driving situation(Hyundai Mobis)](https://github.com/HCILabSeoultech/Automatic-Car-Simulator-for-UX-Verification), [Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification](https://github.com/HCILabSeoultech/Adaptive-Brake-Lights-Car-Simulator-for-UX-Verification), [NrealLightWithYOLO](https://github.com/aloHyomora/NrealLightWithYOLO), [VoteY: AI-Powered Social Voting Platform]
 - SEOUL National Univery Hospital Medisc Lab : [2024 메타버스 개발자 경진대회 - MEDISC(Vision Pro)](https://github.com/aloHyomora/MediscLabSurgicalVision), [Inspirometer Support Program(Based YOLO, Window)](https://github.com/aloHyomora/Inspirometer-Tablet), [Pre-rehabilitation(Multi Env, XREAL Ultra Air 2, Android)](https://github.com/aloHyomora/Pre-Rehabilitation)
 - VR Game: [Jellysis(Casual Multi)](https://github.com/jellysis-xreal/Jellysis_XREAL), [CrushBear : Don't Decorate Me!(Rhythm Action)](https://github.com/jellysis-xreal/CRUSH-BEAR)
